@@ -5,6 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer studying currently at University of Akron</h3> 
+<h4 align="center">Currently Junior</h3> 
 
 <br/>
 
@@ -37,8 +38,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=cpp,nodejs,python,javascript,typescript,express,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,git" />
 </div>
 
 <br/>
