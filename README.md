@@ -15,9 +15,6 @@
  
  🌱 I’m currently learning **ML, UNITY with C#, React, Redux**
 
- 💬 Ask me about **Node.js, React,C++, C#, MongoDB... or anything [here](https://github.com/sk394/sk394/issues)**
-
- ⚡ Fun fact **Why did C++ developer go broke? Because he didn't know when to delete and when to free**
  
  </div>
  
