@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer studying currently at University of Akron</h3> 
-<h4 align="center">Currently Junior</h3> 
+<h4 align="center">Currently Senior</h3> 
 
 <br/>
 
