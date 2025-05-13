@@ -4,8 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Suman+Khadka!;" />
 </h1>
 
-<h3 align="center">A passionate software developer studying currently at University of Akron</h3> 
-<h4 align="center">Currently Senior</h3> 
+<h3 align="center">A passionate software developer and a proud graduate of the University of Akron</h3>
 
 <br/>
 
